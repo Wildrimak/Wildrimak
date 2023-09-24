@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wildrimak/wildrimak/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Java developer using spring boot, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend mid-level developer</strong> focused on microservice architecture.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -19,7 +16,6 @@
 #### Main Stack:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
