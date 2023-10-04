@@ -1,7 +1,7 @@
 ## Sobre mim
 
-<p align="center">Sou apaixanado por tecnologia, amo ensinar e sou orientado a resultados. <br><br> Sou desenvolvedor Java, atualmente focado em soluções usando microserviços e AWS. Sempre que possso gosto de <strong>aprender coisas novas</strong> pois quero <strong>criar coisas</strong> que ajude a potencializar meu desenvolvimento pessoal e da humanidade como um todo. 
-</p>
+<p>OBS: Página em construção...</p>
+<p>Sou apaixanado por tecnologia, amo ensinar e sou orientado a resultados. <br><br> Sou desenvolvedor Java, atualmente focado em soluções usando microserviços e AWS. Sempre que possso gosto de <strong>aprender coisas novas</strong> pois quero <strong>criar coisas</strong> que ajude a potencializar meu desenvolvimento pessoal e da humanidade como um todo.</p>
 
 ## Habilidades
 
